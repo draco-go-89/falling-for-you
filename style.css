@@ -1,0 +1,16 @@
+body {
+    background: #000;
+    overflow: hidden;
+}
+
+.falling-text {
+    position: absolute;
+    color: #ffb6c1;
+    white-space: nowrap;
+    animation: fall linear infinite;
+}
+
+@keyframes fall {
+    from { transform: translateY(-100vh); }
+    to { transform: translateY(100vh); }
+}
