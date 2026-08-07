@@ -1,0 +1,11 @@
+{
+  "changelists": [
+    {
+      "name": "Default",
+      "files": [
+        "script.js"
+      ]
+    }
+  ],
+  "active": "Default"
+}
