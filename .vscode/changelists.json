@@ -1,0 +1,14 @@
+{
+  "changelists": [
+    {
+      "name": "Default",
+      "files": [
+        "script.js",
+        ".vscode/changelists.json",
+        "index.html",
+        "assets/ariana.mp3"
+      ]
+    }
+  ],
+  "active": "Default"
+}
