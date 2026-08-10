@@ -3,7 +3,7 @@
     {
       "name": "Default",
       "files": [
-        "script.js",
+        "style.css",
         ".vscode/changelists.json"
       ]
     }
