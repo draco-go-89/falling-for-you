@@ -3,6 +3,7 @@
     {
       "name": "Default",
       "files": [
+        ".vscode/settings.json",
         ".vscode/changelists.json"
       ]
     }
