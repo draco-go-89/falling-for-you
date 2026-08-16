@@ -6,7 +6,7 @@ body {
 
 .falling-text {
     position: absolute;
-    color: #ffb6c1;
+    color: #ffb0bc;
     white-space: nowrap;
     animation: fall linear infinite;
 }
