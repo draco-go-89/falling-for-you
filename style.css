@@ -1,12 +1,12 @@
 body {
-    background: #000;
+    background: #181E4C;
     overflow: hidden;
     font-size: 13.5px;
 }
 
 .falling-text {
     position: absolute;
-    color: #ffb0bc;
+    color: #e56697;
     white-space: nowrap;
     animation: fall linear infinite;
 }
