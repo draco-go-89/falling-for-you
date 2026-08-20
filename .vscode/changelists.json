@@ -3,7 +3,7 @@
     {
       "name": "Default",
       "files": [
-        "index.html",
+        ".github/workflows/static.yml",
         ".vscode/changelists.json"
       ]
     }
