@@ -2,8 +2,8 @@ for (let i = 0; i < 90; i++) {
     const span = document.createElement('span');
     span.innerHTML = "she;hate that i made you love me";
     span.className = 'falling-text';
-    span.style.left = Math.random() * 90 + "vw";
-    span.style.animationDuration = (Math.random() * 7 + 2) + "s";
+    span.style.left = Math.random() * 70 + "vw";
+    span.style.animationDuration = (Math.random() * 6 + 1.5) + "s";
     span.style.opacity = Math.random();
     document.body.appendChild(span);
 }
